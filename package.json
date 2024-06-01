@@ -1,0 +1,19 @@
+{
+  "name": "createlilypadconfyui",
+  "version": "1.0.13",
+  "description": "",
+  "main": "bin.mjs",
+  "type": "module",
+  "bin": "./bin.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lucas espinosa <lucasespinosa159@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@inquirer/prompts": "^5.0.4",
+    "commander": "^12.1.0",
+    "zx": "^8.1.2"
+  }
+}
