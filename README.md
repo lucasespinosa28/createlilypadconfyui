@@ -22,4 +22,5 @@ npx createlilypadconfyui workflow $pwd/workflow_api.jsonsh
 
 5 - the app will build your docker image, but your yet neet do publish or run a test
 6 - git push the your local module, in github add a tag
-6 - run lilypad with repo tag exemple, <github.com/YOUR_USER/REPO_NAME:TAG
+7 - run lilypad with repo tag exemple, <github.com/YOUR_USER/REPO_NAME:TAG
+#### [Example of create module with this app](https://github.com/lucasespinosa28/democonfyuililypad)
